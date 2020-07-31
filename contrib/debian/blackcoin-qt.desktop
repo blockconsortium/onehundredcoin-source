@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=OneHundredCoin
+Comment=OneHundredCoin P2P Cryptocurrency
+Comment[fr]=OneHundredCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=OneHundredCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/onehundredcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/onehundredcoin;
+Categories=Office;

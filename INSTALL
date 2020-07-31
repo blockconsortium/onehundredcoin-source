@@ -1,0 +1,9 @@
+Building OneHundredCoin
+
+See doc/readme-qt.rst for instructions on building OneHundredCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OneHundredCoin.
+
+See doc/build-*.txt for instructions on building onehundredcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of OneHundredCoin.
